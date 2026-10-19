@@ -1,4 +1,3 @@
-```html
 <!-- ==================== ANIMATED HEADER ==================== -->
 <div align="center">
 
@@ -204,4 +203,3 @@ I'm interested in collaborating on AI/ML projects, data science experiments, hac
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:083344,100:050505&height=100&section=footer" width="100%" />
 
 </div>
-```
