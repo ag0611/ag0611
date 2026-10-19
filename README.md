@@ -1,3 +1,4 @@
+
 <!-- ==================== ANIMATED HEADER ==================== -->
 <div align="center">
 
@@ -6,11 +7,11 @@
 <br/>
 
 <a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LINKEDIN-Connect-06B6D4?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LINKEDIN-Connect-06B6D4?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 &nbsp;
 <a href="https://github.com/ag0611">
-<img src="https://img.shields.io/badge/GITHUB-Profile-111827?style=for-the-badge&logo=github&logoColor=22D3EE" />
+  <img src="https://img.shields.io/badge/GITHUB-Profile-111827?style=for-the-badge&logo=github&logoColor=22D3EE" />
 </a>
 &nbsp;
 <img src="https://img.shields.io/badge/LOCATION-India-164E63?style=for-the-badge&logo=googlemaps&logoColor=67E8F9" />
@@ -20,21 +21,15 @@
 <strong>Building intelligent systems. Turning data into decisions.<br/>
 Exploring AI through real-world projects.</strong>
 
-<br/><br/>
+<br/>
 
 </div>
 
 ---
 
-<br/>
-
-<!-- ==================== ABOUT ME ==================== -->
-
 ## ◈ About Me
 
 I'm focused on machine learning, data science, and building practical AI applications. I work on end-to-end projects involving Python, data analysis, predictive modeling, and intelligent systems. I enjoy turning ideas into working prototypes, exploring new technologies, and collaborating with teams on hackathons and real-world challenges.
-
-<br/>
 
 ### ◈ What I Work On
 
@@ -45,45 +40,31 @@ I'm focused on machine learning, data science, and building practical AI applica
 - Data Pipelines & Interactive Dashboards
 - Hackathons, Team Projects & Rapid Prototyping
 
-<br/>
-
 ---
-
-<br/>
-
-<!-- ==================== FEATURED PROJECTS ==================== -->
 
 ## ◈ Featured Projects
 
 <div align="center">
 
 <a href="https://github.com/ag0611/oceanembed">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ag0611&repo=oceanembed&hide_border=true&bg_color=05090D&title_color=22D3EE&text_color=C9D1D9&icon_color=22D3EE" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ag0611&repo=oceanembed&hide_border=true&bg_color=05090D&title_color=22D3EE&text_color=C9D1D9&icon_color=22D3EE" width="49%" />
 </a><a href="https://github.com/ag0611/ai-coo">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ag0611&repo=ai-coo&hide_border=true&bg_color=05090D&title_color=22D3EE&text_color=C9D1D9&icon_color=22D3EE" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ag0611&repo=ai-coo&hide_border=true&bg_color=05090D&title_color=22D3EE&text_color=C9D1D9&icon_color=22D3EE" width="49%" />
 </a><a href="https://github.com/ag0611/vector-disease-ai">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ag0611&repo=vector-disease-ai&hide_border=true&bg_color=05090D&title_color=22D3EE&text_color=C9D1D9&icon_color=22D3EE" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ag0611&repo=vector-disease-ai&hide_border=true&bg_color=05090D&title_color=22D3EE&text_color=C9D1D9&icon_color=22D3EE" width="49%" />
 </a><a href="https://github.com/ag0611/chain-guard">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ag0611&repo=chain-guard&hide_border=true&bg_color=05090D&title_color=22D3EE&text_color=C9D1D9&icon_color=22D3EE" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ag0611&repo=chain-guard&hide_border=true&bg_color=05090D&title_color=22D3EE&text_color=C9D1D9&icon_color=22D3EE" width="49%" />
 </a>
 
-</div>
+<br/><br/>
 
-<br/>
-
-<div align="center">
 <a href="https://github.com/ag0611?tab=repositories">
-<img src="https://img.shields.io/badge/EXPLORE-ALL%20PROJECTS-083344?style=for-the-badge&logo=github&logoColor=67E8F9" />
+  <img src="https://img.shields.io/badge/EXPLORE-ALL%20PROJECTS-083344?style=for-the-badge&logo=github&logoColor=67E8F9" />
 </a>
-</div>
 
-<br/>
+</div>
 
 ---
-
-<br/>
-
-<!-- ==================== TECH STACK ==================== -->
 
 ## ◈ Tech Stack
 
@@ -100,8 +81,6 @@ I'm focused on machine learning, data science, and building practical AI applica
 
 </div>
 
-<br/>
-
 ### Data, Backend & Visualization
 
 <div align="center">
@@ -113,8 +92,6 @@ I'm focused on machine learning, data science, and building practical AI applica
 <img src="https://img.shields.io/badge/Plotly-05090D?style=for-the-badge&logo=plotly&logoColor=22D3EE" />
 
 </div>
-
-<br/>
 
 ### Web Development & Tools
 
@@ -128,13 +105,7 @@ I'm focused on machine learning, data science, and building practical AI applica
 
 </div>
 
-<br/>
-
 ---
-
-<br/>
-
-<!-- ==================== GITHUB ANALYTICS ==================== -->
 
 ## ◈ GitHub Analytics
 
@@ -145,13 +116,7 @@ I'm focused on machine learning, data science, and building practical AI applica
 
 </div>
 
-<br/>
-
 ---
-
-<br/>
-
-<!-- ==================== CURRENTLY LEARNING ==================== -->
 
 ## ◈ Currently Learning
 
@@ -166,32 +131,26 @@ I'm focused on machine learning, data science, and building practical AI applica
 
 </div>
 
-<br/>
-
 ---
-
-<br/>
-
-<!-- ==================== LET'S CONNECT ==================== -->
 
 ## ◈ Let's Connect
 
 I'm interested in collaborating on AI/ML projects, data science experiments, hackathons and open-source ideas.
 
-<br/>
-
 <div align="center">
 
+<br/>
+
 <a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LET'S%20CONNECT-LinkedIn-06B6D4?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LET'S%20CONNECT-LinkedIn-06B6D4?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 &nbsp;
 <a href="https://github.com/ag0611">
-<img src="https://img.shields.io/badge/FOLLOW-GitHub-111827?style=for-the-badge&logo=github&logoColor=22D3EE" />
+  <img src="https://img.shields.io/badge/FOLLOW-GitHub-111827?style=for-the-badge&logo=github&logoColor=22D3EE" />
 </a>
 &nbsp;
 <a href="https://github.com/ag0611?tab=repositories">
-<img src="https://img.shields.io/badge/EXPLORE-REPOSITORIES-164E63?style=for-the-badge&logo=github&logoColor=67E8F9" />
+  <img src="https://img.shields.io/badge/EXPLORE-Repositories-164E63?style=for-the-badge&logo=github&logoColor=67E8F9" />
 </a>
 
 <br/><br/>
