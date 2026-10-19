@@ -6,7 +6,7 @@
 
 <br/>
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/aadi-gupta-a44924383">
   <img src="https://img.shields.io/badge/LINKEDIN-Connect-06B6D4?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 &nbsp;
@@ -141,7 +141,7 @@ I'm interested in collaborating on AI/ML projects, data science experiments, hac
 
 <br/>
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/aadi-gupta-a44924383">
   <img src="https://img.shields.io/badge/LET'S%20CONNECT-LinkedIn-06B6D4?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 &nbsp;
